@@ -1,6 +1,5 @@
 #header {
     background-color:#b9bdf0;
-    color:#404040;
     display: grid;
     display:flex;
     justify-content: space-between;
@@ -8,12 +7,6 @@
     align-content: stretch;
     padding: 1.75em;
     box-shadow: 0 0 5px 0 #404040;
-}
-
-body {
-    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI","Roboto","Helvetica Neue",Arial,sans-serif;
-    color:#333333;
-    margin: 0;
 }
 
 #identity {

@@ -1,0 +1,12 @@
+#post-header-title {
+    font-size: 2em;
+    font-weight: 600;
+}
+
+#post-header-date {
+    letter-spacing: .1em;
+    font-size: 1em;
+    font-weight: 400;
+    padding-bottom: 2em;
+    border-bottom: 1px solid #f0f1f4;
+}
