@@ -1,6 +1,6 @@
 #header {
-    background-color:#f0f1f4;
-    color:#6f6f6e;
+    background-color:#b9bdf0;
+    color:#404040;
     display: grid;
     display:flex;
     justify-content: space-between;
@@ -33,7 +33,7 @@ body {
 }
 
 #identity h1:hover {
-    color: #1da1f2;
+    color: #abffff;
 }
 
 #identity p {
@@ -66,19 +66,15 @@ body {
 }
 
 .internal-links li:hover {
-    color:#1da1f2;
+    color:#abffff;
 }
 
 .icon {
-    fill:#ababab;
+    fill:#404040;
 } 
 
-.linkedin-icon:hover {
-    fill:#2977c9;
-}
-
-.github-icon:hover {
-    fill:#000000;
+.icon:hover {
+    fill:#abffff;
 }
 
 .internal-link a {
@@ -105,8 +101,8 @@ body {
     }
 
     #menu {
-        background-color:#f0f1f4;
-        color:#6f6f6e;
+        background-color:#b9bdf0;
+        color:#404040;
         display: flex;
         justify-content: space-between;
         align-items: center;

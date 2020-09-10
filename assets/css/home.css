@@ -6,7 +6,7 @@ main {
 img {
     border-radius:50%;
     box-shadow: 0  2px 5px 0 #404040;
-    width: 25%;
+    width: 33%;
     display: block;
     margin: 1em auto;
 }
